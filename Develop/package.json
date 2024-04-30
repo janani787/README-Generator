@@ -1,0 +1,25 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Janani787",
+  "license": "ISC",
+  "dependencies": {
+    "badge-maker": "^3.3.1",
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4"
+  },
+  "keywords": [],
+  "description": "This is to generate Readme.md file based on user input",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janani787/README-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/janani787/README-Generator/issues"
+  },
+  "homepage": "https://github.com/janani787/README-Generator#readme"
+}
