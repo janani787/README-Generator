@@ -1,16 +1,16 @@
 
-    # Professional Read me Generator
+    # Professional REad me Generator
     
     ![Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
     
     ## Description 
-    read me generator
+    Create a professional Readme
     
     ## Table of Contents 
     - [Installation](#installation)
     - [Usage](#usage)
-    - [License](#license-📝)
+    - [License](#license)
     - [Test](#tests)
     - [contributors](#contributors)
     - [Questions](#questions)
@@ -20,21 +20,21 @@
     undefined
     
     ## Usage 
-    
+    Command line application accepts user input when prompted for information then a readme.md file is generated with the tile of project ,
     
     ## License 
         This application is covered by the MIT license.
     
     ## Tests 
-    npm test run
+    no test ran as of now
     
     ## Credits 
-    janani
+    Janani
     
     ## Questions 
     If there are any questions, feel free to contact my email at: test@gmail.com
     
-    You can also find me on GitHub at: [janani787](https://www.github.com/janani787)
+    You can also find me on GitHub at: [Janani787](https://www.github.com/Janani787)
     
   
     
